@@ -1,0 +1,10 @@
+This is the first document.
+This document is the second document.
+And this is the third one.
+Is this the first document?
+Attention helps a language model connect related tokens.
+Grouped query attention shares key and value heads.
+Rotary embeddings represent relative token positions.
+The feed forward network uses a SwiGLU gate.
+A transformer contains attention and feed forward layers.
+The model learns to predict the next token in a sequence.
