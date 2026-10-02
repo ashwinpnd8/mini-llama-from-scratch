@@ -110,7 +110,6 @@ python train.py --corpus your_dataset.txt --epochs 50
 
 A larger and cleaner corpus will produce better output. This is still a small educational model and is not intended to match production LLMs.
 
-## Suggested CV description
 
 **Mini Llama-style Language Model from Scratch**
 
